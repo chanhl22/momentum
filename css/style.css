@@ -177,3 +177,10 @@ footer {
   font-size: 100px;
   font-family: 'KOTRAHOPE';
 }
+
+#weather {
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 0;
+}
