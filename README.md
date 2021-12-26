@@ -1,7 +1,7 @@
 # momentum
 바닐라JS를 사용해 만든 momentum 앱입니다.  
   
-<img src="https://user-images.githubusercontent.com/77683221/147422196-5ae83b8e-1862-4344-ba44-cb0afc07c326.png"  width="370" height="370">
+<img src="https://user-images.githubusercontent.com/77683221/147422196-5ae83b8e-1862-4344-ba44-cb0afc07c326.png"  width="500" height="370">
 
   
 ---
